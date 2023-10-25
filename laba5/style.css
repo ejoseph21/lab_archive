@@ -1,0 +1,381 @@
+.name{
+color: #101214;
+font-family: 'Arial', sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+position: absolute;
+top: 22px;
+left: 48px;
+}
+.work{
+color: #2AAEE7;
+font-family: 'Arial', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+position: absolute;
+top: 46px;
+left: 48px;
+}
+.email{
+width: 11px;
+height: 11px;
+flex-shrink: 0;
+position: absolute;
+top: 86px;
+left:49px;
+}
+.emailt{
+color: #000;
+font-family: 'Arial', sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+position: absolute;
+top: 82px;
+left:66px;
+}
+.phone{
+width: 11px;
+height: 11px;
+flex-shrink: 0;
+position: absolute;
+top: 103px;
+left:49px;
+}
+.phonet{
+color: #000;
+font-family: 'Arial', sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+position: absolute;
+top: 99px;
+left:66px;
+}
+.loc{
+width: 11px;
+height: 11px;
+flex-shrink: 0;
+position: absolute;
+top: 85px;
+left:245px;
+}
+.loct{
+color: #000;
+font-family: 'Arial', sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+position: absolute;
+top: 81px;
+left:260px;
+}
+.link{
+width: 11px;
+height: 11px;
+flex-shrink: 0;
+position: absolute;
+top: 103px;
+left:245px;
+}
+.linkt{
+color: #000;
+font-family:'Arial', sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px; /* 163.636% */
+text-decoration-line: underline;
+position: absolute;
+top: 99px;
+left:260px;
+}
+.expblock{
+position: absolute;
+top: 162px;
+left: 48px;
+}
+.exp{
+color: #73808D;
+font-family: 'Arial', sans-serif;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px; /* 180% */
+letter-spacing: 2px;
+text-transform: uppercase;
+position: absolute;
+top: 140px;
+left:48px;
+}
+.vl {
+border-top: 0.5px solid #73808D;
+width: 335px;
+position: absolute;
+top: 156px;
+left: 47px;
+}
+.frontbold{
+color: #101214;
+font-family: 'Arial CE', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 21px;
+}
+.evident{
+color: #2AAEE7;
+font-family: 'Arial', sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+}
+.data{
+color: #73808D;
+font-family: 'Arial', sans-serif;
+font-size: 9px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+}
+.list1{
+color: #101214;
+font-family: 'Arial', sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+}
+.exp1{
+color: #73808D;
+font-family: 'Arial', sans-serif;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px; /* 180% */
+letter-spacing: 2px;
+text-transform: uppercase;
+position: absolute;
+top: 505px;
+left:48px;
+}
+.vl1{
+border-top: 0.5px solid #73808D;
+width: 335px;
+position: absolute;
+top: 520px;
+left: 47px;
+}
+.block2{
+position: absolute;
+top: 526px;
+left: 48px;
+}
+.exp2{
+    color: #73808D;
+font-family: 'Arial', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; /* 180% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 670px;
+    left:48px;
+    }
+    .vl2{
+    border-top: 0.5px solid #73808D;
+    width: 335px;
+    position: absolute;
+    top: 685px;
+    left: 47px;
+    }
+.vol1{
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 699px;
+    left: 48px;
+}
+.vol1t{
+    color: #000;
+
+font-family: 'Arial', sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+position: absolute;
+    top: 696px;
+    left: 71px;
+
+}
+.vol2{
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 697px;
+    left: 227px;
+}
+.vol2t{
+color: #000;
+font-family: 'Arial', sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+position: absolute;
+top: 694px;
+left: 252px;
+}
+.exp3{
+color: #73808D;
+font-family: 'Arial', sans-serif;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px; /* 180% */
+letter-spacing: 2px;
+text-transform: uppercase;
+position: absolute;
+top: 748px;
+left:50px;
+}
+.vl3{
+border-top: 0.5px solid #73808D;
+width: 335px;
+position: absolute;
+top: 763px;
+left: 49px;
+}
+.pas1{
+width: 16px;
+height: 16px;
+flex-shrink: 0;
+position: absolute;
+top: 777px;
+left: 49px;
+}
+.pas1t{
+color: #000;
+font-family: 'Arial', sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+position: absolute;
+top: 774px;
+left: 72px;
+}
+.pas2{
+width: 16px;
+height: 16px;
+flex-shrink: 0;
+position: absolute;
+top: 777px;
+left: 232px;
+}
+.pas2t{
+color: #000;
+font-family: 'Arial', sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+position: absolute;
+top: 772px;
+left: 254px;
+}
+.right{
+width: 140px;
+position: absolute;
+top:  0px;
+left: 450px;   
+}
+.photo{
+width: 99px;
+height: 99px;
+flex-shrink: 0;
+border-radius: 99px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+box-shadow: 0px 2px 4px 0px rgba(16, 18, 20, 0.08);
+position: absolute;
+top:  22px;
+}
+.exp4{
+    color: #73808D;
+    font-family: 'Arial', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; /* 180% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 140px;
+    }
+.vl4{
+    border-top: 0.5px solid #73808D;
+    width: 140px;
+    position: absolute;
+    top: 156.16px;
+}
+.text{
+    color: #101214;
+    font-family: 'Arial', sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    position: absolute;
+    top: 161px;
+}
+.exp5{
+    color: #73808D;
+    font-family: 'Arial', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; /* 180% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 280px;
+    }
+.vl5{
+    border-top: 0.5px solid #73808D;
+    width: 140px;
+    position: absolute;
+    top: 296.16px;
+}
+.block3{
+    position: absolute;
+    top: 302px;
+}
+.cod{
+    color: #2AAEE7;
+    font-family: 'Arial CE', sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+}
+.text1{
+color: #101214;
+font-family: 'Arial', sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;    
+}
