@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form formachka> 
+        <fieldset>
+            <legend>Контактные данные</legend>
+            <p><label for="surname">Фамилия* </label><input type="text" id="surname" required></p>
+            <p><label for="name">Имя* </label><input type="text" id="name" required></p>
+            <p><label for="father's name">Отчество </label><input type="text" id="father's name"></p>
+            <p><label for="number">Номер телефона* </label><input type="tel" maxlength="13" minlength="13" required
+                    id="number" placeholder="+375123456789"></p>
+        </fieldset>
+        <fieldset>
+            <legend>Персональная информация</legend>
+            <p><label for="age">Возраст </label><input type="number" min="14" max="100" id="age"></p>
+            <p>Адрес проживания* <textarea maxlength="150" required></textarea> </p>
+            <p><label for="email">E-mail </label><input type="email" id="email"></p>
+           
+                <legend>Причина заявки: </legend>
+                <p> <select name="food">
+                        <option value="r1">Закончился срок действия</option>
+                        <option value="r2">Потеря</option>
+                        <option value="r3">Повреждение страниц</option>
+                        <option value="r4">Закончились страницы</option>
+                    </select></p>
+          
+            <p> Насколько срочно Вам нужен паспорт? <br>
+                <input type=radio name=answer value=no1 checked> Срочно <br>
+                <input type=radio name=answer value=no2> В течении двух недель <br>
+                <input type=radio name=answer value=no3> В течении месяца <br>
+                <input type=radio name=answer value=no4> В течении года <br>
+                <input type=radio name=answer value=no5> Не нужен <br>
+            </p> 
+            <p> Отметьте верное утверждение: </p>
+      <p><input type="checkbox" name="a" value="100" checked>Я являюсь гражданином РБ</p>
+      <p><input type="checkbox" name="a" value="101"> Я беженец</p>
+      <p><input type="checkbox" name="a" value="102"> Я проживаю на территории РБ больше 10 лет</p>
+      <p><input type="checkbox" name="a" value="102"> Я был привлечен к уголовной и/или административной ответсвенности</p>
+      <p><input type="checkbox" name="a" value="102"> Я имею постоянное место жительство</p>
+        </fieldset>
+        <p><input type="submit" value="Отправить"></p>
+    </form>
+</body>
+
+</html>
