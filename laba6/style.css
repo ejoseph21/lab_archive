@@ -1,0 +1,64 @@
+.cl1 {
+    color: blue;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .cl2 {
+    color: red;
+    font-weight: 700;
+    font-size: 14px;
+  }
+  .cl3 {
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 14px;
+  }
+  .cl4 {
+    width: 68px;
+    height: auto;
+    color: rgb(0, 0, 0);
+    border: 1px dotted red;
+    border-width: 3px;
+    padding: 0px;
+    font-size: 14px;
+  }
+  .cl5 {
+    color: blue;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 14px;
+  }
+  .yellow{
+    color:rgb(243, 230, 45);
+  }
+  .back{
+    background-color: rgba(121, 164, 198, 0.639);
+  }
+  .cursive{
+    font-style: italic;
+  }
+  .button{
+    height:20px;
+    width:20px ;
+    font-size:10px;
+    
+  }
+  .button1{
+    height:20px;
+    width:50px ;
+    font-size:10px;
+  }
+  .text{
+    color: black;
+    font-size: 30px;
+  }
+  .big{
+    color: black;
+    font-size: 40px;
+  }
+  .col{
+    font-size: 30px;
+    color: rgb(191, 0, 255);
+  }
+ 
