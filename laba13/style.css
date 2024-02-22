@@ -1,0 +1,16 @@
+TABLE {
+    width: 300px;
+    border-collapse: collapse; 
+   }
+   TD, TH {
+    padding: 3px; 
+    border: 1px solid black; 
+   }
+   TH {
+    background: #ffffff; 
+   }
+tr:hover {
+    background-color: rgb(158, 164, 198);
+    font-weight: bold;
+    font-size: 20px;
+  }
