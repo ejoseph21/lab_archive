@@ -1,0 +1,42 @@
+body {
+  background-color: #000000;
+  color: #fff;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+
+.menu-icon {
+  width: 30px;
+  height: 3px;
+  background-color: #a4a2a2;
+  position: relative;
+  transition: transform 0.4s cubic-bezier(0.77, 0, 0.175, 1);
+  cursor: pointer;
+}
+
+.bar2 {
+  top: 50%;
+}
+
+.bar3 {
+  top: 100%;
+}
+
+.menu-icon.close {
+  transform: rotate(45deg);
+}
+
+.menu-icon.close .bar1 {
+  transform: translateY(50%) rotate(45deg);
+}
+
+.menu-icon.close .bar2 {
+  opacity: 0;
+}
+
+.menu-icon.close .bar3 {
+  transform: translateY(-50%) rotate(-45deg);
+}
